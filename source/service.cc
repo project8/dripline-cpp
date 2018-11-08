@@ -17,7 +17,6 @@
 using scarab::authentication;
 using scarab::param_node;
 using scarab::param_value;
-using scarab::parsable;
 
 using std::static_pointer_cast;
 using std::string;
